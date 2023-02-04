@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: M. Tariq Aziz
+name: M.Tariq Aziz
 title: Data Analyst / Upcoming Data Scientist
 email: ta.aziz221@gmail.com Your email (optional)
 # email_title: Email (Email title override)
