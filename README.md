@@ -1,5 +1,3 @@
-# ttariqaziz.github.io
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,14 +56,13 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <div class="col-sm-8 text-left"> 
-          <h1>Testing 1</h1>
-          <p>This is a test 1 page. aborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <li><a href="#">About</a>
+          <h1>Testing 123</h1>
+          <p>This is a test 123 ...............12345677890;akdjfsdkjbsadkjgbasd nim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <hr>
           <h3>Test</h3>
           <p>Lorem ipsum...</p>
-        </div>
+        </li>
         <li><a href="#">Projects</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
@@ -107,4 +104,3 @@
 
 </body>
 </html>
-
