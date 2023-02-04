@@ -5,9 +5,9 @@ sass:
   sass_dir: _sass
   style: compressed
 resume_avatar: 'true'
-resume_name: Lisa M. Simpson
-resume_title: VP of Global Communications
-resume_contact_email: lisasimpson@youremailaddress.com
+resume_name: M.Tariq Aziz
+resume_title: Data Analyst / Upcoming Data Scientist
+resume_contact_email: ta.aziz221@gmail.com
 resume_contact_telephone: 555-7334
 resume_contact_address: '742 Evergreen Terrace, Springfield'
 resume_header_contact_info: >-
@@ -28,10 +28,10 @@ resume_section_recognition: true
 resume_section_links: true
 resume_section_associations: true
 resume_social_links:
-  resume_github_url: 'https://github.com/jglovier/resume-template'
+  resume_github_url: 'https://https://github.com/ttariqaziz'
   resume_twitter_url: 'http://twitter.com/jglovier'
   resume_dribbble_url: 'https://dribbble.com/jag'
-  resume_linkedin_url: 'https://www.linkedin.com/in/joelglovier'
+  resume_linkedin_url: 'https://www.linkedin.com/in/m.tariqaziz'
   resume_website_url: 'http://joelglovier.com'
   resume_medium_url: 'https://medium.com/@jglovier'
 resume_print_social_links: true
