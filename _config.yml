@@ -8,15 +8,15 @@ version: 2
 # Personal info
 name: M.Tariq Aziz
 title: Data Analyst / Upcoming Data Scientist
-email: Your email (optional)
+email: ta.aziz221@gmail.com
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://ttariqaziz.github.io (eg. https://google.com)(optional)
+website: https://ttariqaziz.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true (options: true, false, never)
 
 # Social links
 twitter_username: jekyllrb
