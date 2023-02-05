@@ -10,3 +10,7 @@
 # Database
 - skill: Database
   description: PostgreSQL, Oracle SQL, MySQL
+
+# Cloud
+- skill: Cloud
+  description: AWS (S3, EC2, RDS)
