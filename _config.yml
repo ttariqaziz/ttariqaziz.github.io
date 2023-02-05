@@ -26,9 +26,9 @@ resume_section_links: true
 resume_section_associations: true
 resume_social_links:
   resume_github_url: 'https://github.com/ttariqaziz'
-  resume_twitter_url: 'http://twitter.com/jglovier'
+  # resume_twitter_url: 'http://twitter.com/jglovier'
   resume_linkedin_url: 'https://www.linkedin.com/in/mtariqaziz'
   resume_website_url: 'http://ttariqaziz.github.io'
-  resume_medium_url: 'https://medium.com/@jglovier'
+  # resume_medium_url: 'https://medium.com/@jglovier'
 resume_print_social_links: true
 resume_theme: default
