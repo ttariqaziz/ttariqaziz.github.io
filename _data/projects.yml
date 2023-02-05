@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Springboard
+- project: Driving Insights through Text Classification and Sentiment Analysis of Covid-19 Twitter Data using NLP
+  role: Developer
+  duration: 2022 &mdash; Present
+  # url: "https://github.com/ttariqaziz/twitter_text_classification"
+  description: NLP-skilled Data Scientist leveraging Text Classification and Sentiment Analysis to uncover insights from Covid-19 Twitter data.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Springboard
+- project: AirBnb NYC Price Prediction using Machine Learning
+  role: Developer
+  duration: 2023 &mdash; Present
+  # url: "https://github.com/ttariqaziz/nyc_airbnb_capstone"
+  description: Data Science Project: Design and Implementation of a Supervised Machine Learning Model in Python on a Real-World Kaggle Dataset, Featuring a Comprehensive Data Science Pipeline.
