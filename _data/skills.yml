@@ -1,12 +1,12 @@
 # Skills
 # Programming
-- skill: Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup), SQL, R, Java, MATLAB, HTML, CSS, Bash, Scala
-  description: testing.
+- skill: Programming
+  description: Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup), SQL, R, Java, MATLAB, HTML, CSS, Bash, Scala.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Dashboard
+- skill: Data Visualization/Dashboarding
+  description: Tableau, Power BI
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Database
+- skill: Database
+  description: PostgreSQL, Oracle SQL, MySQL
