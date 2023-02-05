@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Springboard
-- project: Driving Insights through Text Classification and Sentiment Analysis of Covid-19 Twitter Data using NLP
+- project: Text Classification and Sentiment Analysis of Covid-19 Twitter Data using NLP
   role: Developer
   duration: 2022 &mdash; Present
   # url: "https://github.com/ttariqaziz/twitter_text_classification"
