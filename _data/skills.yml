@@ -15,9 +15,9 @@
 - skill: Cloud
   description: AWS (S3, EC2, RDS)
   
-# Testing skills
 # tools:
-- item: word
-- item: excel
-- item: outlook
-- item: powerpoint
+- skill: tools
+  description: word
+  description: excel
+  description: outlook
+  description: powerpoint
