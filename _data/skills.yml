@@ -16,8 +16,8 @@
   description: AWS (S3, EC2, RDS)
   
 # tools:
-- skill: tools
-  description: word
-  description: excel
-  description: outlook
-  description: powerpoint
+# - skill: tools
+#  description: word
+#  description: excel
+#  description: outlook
+#  description: powerpoint
