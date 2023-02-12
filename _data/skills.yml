@@ -17,7 +17,7 @@
   
 # Testing skills
 others:
-  - item: word
-  - item: excel
-  - item: outlook
-  - item: powerpoint
+- item: word
+- item: excel
+- item: outlook
+- item: powerpoint
