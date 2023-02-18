@@ -1,7 +1,7 @@
 # Degree
-- degree: Master of Science, Computer Science
-  uni: Sofia University, CA
-  year: 2017 &mdash; 2019
+#- degree: Master of Science, Computer Science
+#  uni: Sofia University, CA
+#  year: 2017 &mdash; 2019
  # awards:
  #   - award: Summa Cumme Laude graduate
  # summary: If you had any meaningful roles at college, feel free to write about them here
@@ -11,3 +11,10 @@
 - degree: Data Science Career Track, Certification
   uni: Springboard - Remote
   year: 2022 &mdash; Present
+
+- degree: Master of Science, Computer Science
+  uni: Sofia University, CA
+  year: 2017 &mdash; 2019
+ # awards:
+ #   - award: Summa Cumme Laude graduate
+ # summary: If you had any meaningful roles at college, feel free to write about them here
