@@ -1,12 +1,12 @@
 # Degree
 - degree: Master of Science, Computer Science
- # uni: Sofia University  &mdash; CA
- # year: 2017 &mdash; 2019
+  uni: Sofia University  &mdash; CA
+  year: 2017 &mdash; 2019
  # awards:
  #   - award: Summa Cumme Laude graduate
  # summary: If you had any meaningful roles at college, feel free to write about them here
 
 # - degree: Master of Science, Engineering Physics
 #  uni: Chalmers University of Technology
-degree: Springboard Data Science Career Track, Certification
-year: 2022 &mdash; Present
+  Springboard Data Science Career Track, Certification
+  2022 &mdash; Present
