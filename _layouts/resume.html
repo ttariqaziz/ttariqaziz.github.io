@@ -150,9 +150,9 @@
 
         {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <p style="font-size: 16px;">Text with font size of 16px</p>
+          <p style="font-size: 18px;">
           <p class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</p>
-          
+          </p>
           
         </div>
         {% endfor %}
