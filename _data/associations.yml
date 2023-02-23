@@ -1,8 +1,9 @@
 # Certifications
 # comment out the urls if you do not wish to display them
 
-- organization: Datacamp SQL
+- organization: <p style="font-size: 12px;"> Datacamp SQL
   url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20SQL.pdf
+  
 
 - organization: Datacamp Joining Data in SQL
   url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Joining%20Data%20in%20SQL.pdf
