@@ -12,5 +12,5 @@
 - project: AirBnb NYC Price Prediction using Machine Learning
   role: Developer
   duration: 2023 &mdash; Present
-  # url: "https://github.com/ttariqaziz/nyc_airbnb_capstone"
+  url: "https://github.com/ttariqaziz/nyc_airbnb_capstone"
   description: Design and Implementation of a Supervised Machine Learning Model in Python on a Real-World Kaggle Dataset, Featuring a Comprehensive Data Science Pipeline.
