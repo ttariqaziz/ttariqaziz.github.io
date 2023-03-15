@@ -1,16 +1,16 @@
 # Certifications
 # comment out the urls if you do not wish to display them
 
-- organization: Datacamp SQL
+- organization: SQL - Datacamp
   url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20SQL.pdf
   
-- organization: Datacamp Joining Data in SQL
+- organization: Joining Data in SQL - Datacamp
   url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Joining%20Data%20in%20SQL.pdf
   
-- organization: IBM Coursera Relational Databases
+- organization: Relational Databases - IBM
   url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/IBM%20Coursera%20RDBMS.pdf
   
-- organization: Datacamp Importing Data in Python
+- organization: Importing Data in Python - Datacamp
   url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Importing%20Data%20in%20Python.pdf
   
 - organization: Python Exploratory Data Analysis - Datacamp
@@ -21,3 +21,6 @@
   
 - organization: Hyperparameter Tuning in Python - Datacamp
   url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Hyperparameter%20Tuning%20in%20Python.pdf
+
+- organization: Python for Data Science, AI & Development - IBM
+  url:
