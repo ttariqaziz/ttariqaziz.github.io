@@ -1,26 +1,29 @@
 # Certifications
 # comment out the urls if you do not wish to display them
 
-- organization: SQL - Datacamp
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20SQL.pdf
+#- organization: SQL - Datacamp
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20SQL.pdf
   
-- organization: Joining Data in SQL - Datacamp
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Joining%20Data%20in%20SQL.pdf
+#- organization: Joining Data in SQL - Datacamp
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Joining%20Data%20in%20SQL.pdf
   
-- organization: Relational Databases - IBM
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/IBM%20Coursera%20RDBMS.pdf
+#- organization: Relational Databases - IBM
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/IBM%20Coursera%20RDBMS.pdf
   
-- organization: Importing Data in Python - Datacamp
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Importing%20Data%20in%20Python.pdf
+#- organization: Importing Data in Python - Datacamp
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Importing%20Data%20in%20Python.pdf
   
-- organization: Python Exploratory Data Analysis - Datacamp
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Python%20Exploratory%20Data%20Analysis.pdf
+#- organization: Python Exploratory Data Analysis - Datacamp
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Python%20Exploratory%20Data%20Analysis.pdf
 
-- organization: Model Validation in Python - Datacamp
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Model%20Validation%20in%20Python.pdf
+#- organization: Model Validation in Python - Datacamp
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Model%20Validation%20in%20Python.pdf
   
-- organization: Hyperparameter Tuning in Python - Datacamp
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Hyperparameter%20Tuning%20in%20Python.pdf
+#- organization: Hyperparameter Tuning in Python - Datacamp
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Hyperparameter%20Tuning%20in%20Python.pdf
 
-- organization: Python for Data Science, AI & Development - IBM
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/IBM%20Python%20for%20DS%2C%20AI%20%26%20Development.pdf
+#- organization: Python for Data Science, AI & Development - IBM
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/IBM%20Python%20for%20DS%2C%20AI%20%26%20Development.pdf
+
+- Various short certifications
+  url: https://github.com/ttariqaziz/ttariqaziz.github.io/tree/main/images
