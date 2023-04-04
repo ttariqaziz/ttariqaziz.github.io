@@ -30,6 +30,6 @@ resume_social_links:
   resume_linkedin_url: 'https://www.linkedin.com/in/mtariqaziz'
   resume_website_url: 'https://drive.google.com/file/d/1Y5tEWeihVs5MYQWxnznYIIRr4q1TuHCk/view?usp=sharing'
   # resume_medium_url: 'https://medium.com/@jglovier'
-  resume_pdf_url: 'www.cnn.com'
+  # resume_pdf_url: 'www.cnn.com'
 resume_print_social_links: true
 resume_theme: default
