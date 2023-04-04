@@ -12,9 +12,16 @@
   uni: Springboard &mdash; Remote
   year: 2022 &mdash; Present
 
-- degree: Master of Science, Computer Science
+- degree: Masters, Computer Science (minor:data science)
   uni: Sofia University, CA
   year: 2017 &mdash; 2019
+ # awards:
+ #   - award: Summa Cumme Laude graduate
+ # summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Bachelors, Telecommunication (minor: computer science)
+  uni: FAST-National University, International
+ # year: 2017 &mdash; 2019
  # awards:
  #   - award: Summa Cumme Laude graduate
  # summary: If you had any meaningful roles at college, feel free to write about them here
