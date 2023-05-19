@@ -1,11 +1,11 @@
 # Skills
 # Programming
 - skill: Programming
-  description: Python (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, PySpark), SQL, Spark SQL, R, Java, MATLAB, HTML, CSS, Bash, Scala, Git, GitHub, VBA
+  description: Python (Scikit-learn, Pandas, NumPy, NLTK, PySpark), SQL, Spark SQL, R, Java, MATLAB, HTML, CSS, Bash, Scala, Git, GitHub, VBA
 
 # Dashboard
 - skill: Data Visualization/Dashboarding
-  description: Tableau, Power BI, Looker
+  description: Tableau, Power BI, ggplot2, Plotly, Matplotlib, Seaborn
 
 # Database
 - skill: Database
