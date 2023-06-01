@@ -1,5 +1,8 @@
 # Resume template
 
+[Link](https://ttariqaziz.github.io/)
+
+
 *A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img]( images/screenshot.png)
