@@ -14,3 +14,9 @@
   duration: 2023 &mdash; Present
   url: "https://github.com/ttariqaziz/nyc_airbnb_capstone"
   description: Design and Implementation of a Supervised Machine Learning Model in Python on a Real-World Kaggle Dataset, Featuring a Comprehensive Data Science Pipeline.
+
+- project: Data Modeling uning Oracle SQL Developer
+  role: Developer
+  duration: 2022 &mdash; 2022
+  url: "https://github.com/ttariqaziz/data_modeling_MySQL_project"
+  description: SQL project shows data modeling, using MySQL, including schema design, entity relationship diagram, data dictionary, data insertion, and SQL querying for a Human Resource management system.
