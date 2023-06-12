@@ -20,3 +20,9 @@
   duration: 2022 &mdash; 2022
   url: "https://github.com/ttariqaziz/data_modeling_MySQL_project"
   description: SQL project shows data modeling, using MySQL, including schema design, entity relationship diagram, data dictionary, data insertion, and SQL querying for a Human Resource management system.
+
+- project: Statistical Modeling in MATLAB
+  role: Developer
+  duration: 2020 &mdash; 2021
+  url: "https://github.com/ttariqaziz/statistical_modeling_matlab"
+  description: Statistical modeling of the unstructured raw data from GPS satellites using MATLAB for multiple years. Data modeling and processing, followed by different residual plots including trends and root mean square. In the end, the result was compared with independent data set models for validation purposes.
