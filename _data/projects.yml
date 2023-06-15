@@ -20,7 +20,7 @@
   role: Developer
   duration: 2023 &mdash; Present
   url: "https://github.com/ttariqaziz/h-m_recommendation_system_ml_project"
-  description:
+  description: Created and implemented a machine learning-driven recommendation system for H&M products using a dataset of 32GB, incorporating images, to provide enhanced personalized product suggestions for customers.
 
 
 - project: Data Modeling using Oracle SQL Developer
