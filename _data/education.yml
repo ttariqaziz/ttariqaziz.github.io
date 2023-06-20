@@ -8,7 +8,7 @@
 
 # - degree: Master of Science, Engineering Physics
 #  uni: Chalmers University of Technology
-- degree: Certification, Data Science Bootcamp
+- degree: Certification, Data Science Bootcamp (machine learning, artificial intelligence)
   uni: Springboard &mdash; Remote
   year: 2022 &mdash; Present
 
@@ -19,7 +19,12 @@
  #   - award: Summa Cumme Laude graduate
  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: Bachelors, Telecommunication (computer science)
+
+- degree: Masters, Engineering (computer science
+  uni: Chalmers University of Technology, International
+  
+
+- degree: Bachelor, Engineering (computer science)
   uni: FAST-National University, International
  # year: 2017 &mdash; 2019
  # awards:
