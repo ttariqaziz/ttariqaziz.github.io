@@ -8,8 +8,8 @@
   description: Tableau, Power BI, ggplot2, Plotly, Matplotlib, Seaborn
 
 # Database
-- skill: Database
-  description: PostgreSQL, Oracle SQL, MySQL
+- skill: Database/Data warehouse
+  description: PostgreSQL, Oracle SQL, MySQL, Snowflake
 
 # Cloud
 - skill: Cloud
@@ -20,4 +20,4 @@
 #  description: word
 #  description: excel
 #  description: outlook
-#  description: powerpoint
+#  description: PowerPoint
