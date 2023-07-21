@@ -9,7 +9,7 @@
   description: Developed NLP-based machine learning models for Text Classification and Sentiment Analysis on Covid-19 Twitter data, uncovering valuable insights and driving informed decision-making.
 
 # Springboard
-- project: AirBnb NYC Price Prediction using Machine Learning
+- project: Airbnb NYC Price Prediction using Machine Learning
   role: Developer
   duration: 2023 &mdash; Present
   url: "https://github.com/ttariqaziz/nyc_airbnb_capstone"
@@ -22,12 +22,17 @@
   url: "https://github.com/ttariqaziz/h-m_recommendation_system_ml_project"
   description: Created and implemented a machine learning-driven recommendation system for H&M products using a dataset of 32GB, incorporating images, to provide enhanced personalized product suggestions for customers.
 
+- project: Snowflake cloud data warehouse integration with AWS (S3 bucket) - batch process
+  role: Developer
+  duration: 2022
+  url:
+  description: Implemented Snowflake integration with AWS S3, enabling seamless data access for batch processing. Streamlined file reading and ensured continuous data availability within the Snowflake environment. Orchestrated AWS roles and policies to guarantee robust authentication and seamless integration.
 
 - project: Data Modeling using Oracle SQL Developer
   role: Developer
   duration: 2022 &mdash; 2022
   url: "https://github.com/ttariqaziz/data_modeling_MySQL_project"
-  description: SQL project shows data modeling, using MySQL, including schema design, entity relationship diagram, data dictionary, data insertion, and SQL querying for a Human Resource management system.
+  description: SQL project shows data modeling, using MySQL, including schema design, entity relationship diagram, data dictionary, data insertion, and SQL queries for a Human Resource management system.
 
 - project: Statistical Modeling of unstructured weather data using MATLAB
   role: Developer
