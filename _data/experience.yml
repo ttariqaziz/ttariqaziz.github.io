@@ -1,12 +1,4 @@
 # Jobs
-# Data Science Fellow
-- company: Springboard &mdash; Houston, TX
-  url: https://www.springboard.com/
-  position: Data Science Fellow
-  duration: Aug, 2022 &mdash; Jul 2023
-  summary: <li>Proficient in Python and SQL, with a strong background in exploratory data analysis, data visualization, hypothesis testing, and machine learning.</li><li>Completed over 600 hours of extensive data science curriculum and received one-on-one training from an established industry expert and mentor from Google. Demonstrated expertise through the completion of two in-depth projects.</li>
-           <li>Projects</li><ol><li>Text Classification and Sentiment Analysis of Covid-19 Twitter Data using NLP</li>
-           <li>AirBnb NYC Price Prediction using Machine Learning</li></ol>
   
 # Data Kind Volunteer
 - company: DataKind &mdash; Houston, TX
@@ -15,6 +7,14 @@
   duration: May, 2023 &mdash; Present
   summary: <li>Working with experienced data scientists and engineers all over the world to build a recommendation system for e-commerce business.</li><li>Process and prepare 32 GB of data to perform data mining, exploratory data analysis, and plots for bett er understanding followed by modeling in machine learning.</li>
 
+# Data Science Fellow
+- company: Springboard &mdash; Houston, TX
+  url: https://www.springboard.com/
+  position: Data Science Fellow
+  duration: Aug, 2022 &mdash; Jul 2023
+  summary: <li>Proficient in Python and SQL, with a strong background in exploratory data analysis, data visualization, hypothesis testing, and machine learning.</li><li>Completed over 600 hours of extensive data science curriculum and received one-on-one training from an established industry expert and mentor from Google. Demonstrated expertise through the completion of two in-depth projects.</li>
+           <li>Projects</li><ol><li>Text Classification and Sentiment Analysis of Covid-19 Twitter Data using NLP</li>
+           <li>AirBnb NYC Price Prediction using Machine Learning</li></ol>
 
 # Sr.Data Analyst
 - company: Senor Enterprises Inc &mdash; Houston, TX
@@ -25,15 +25,22 @@
 
 # Engineer
 - company: Robert Half Technology, Fremont, CA
-  position: Linux Engineer&mdash;1
+  position: Technical Support Engineer&mdash;1
   duration: Feb, 2018 &mdash; Jan, 2019
   summary: <li>Furnished technical and warranty support at level-1, conducting hardware and software diagnostics for a range of systems including servers, blades, and PCs.</li><li>Coordinated, oversaw, managed, and documented faults using the ticket system, ensuring prompt resolution of issues and timely completion of projects.</li>
 
-- company: San Mateo Auto Sales &mdash; San Mateo, CA
-  position: Market Data Analyst
-  duration:   Jan, 2017  &mdash; Mar, 2019
-  summary: <li>Demonstrated strong data analysis skills by reviewing a significant volume of marketing data and creating insightful dashboards, reports, and storytelling visualizations.</li><li>Conducted thorough data analysis to uncover key insights and presented meaningful findings to stakeholders. Predicted an 8% increase in sales volume based on the findings.</li>
+#- company: San Mateo Auto Sales &mdash; San Mateo, CA
+#  position: Market Data Analyst
+#  duration:   Jan, 2017  &mdash; Mar, 2019
+#  summary: <li>Demonstrated strong data analysis skills by reviewing a significant volume of marketing data and creating insightful dashboards, reports, and storytelling visualizations.</li><li>Conducted thorough data analysis to uncover key insights and presented meaningful findings to stakeholders. Predicted an 8% increase in sales volume based on the findings.</li>
 
+# Data Science Researcher
+- company: Chalmers University of Technology, International 
+  url: https://www.chalmers.se/
+  position: Data Science Researcher
+  duration: 2015 &mdash; 2017
+  summary: <li>Conducted research on geodetic stations for monitoring weather effects on signal propagation. This involved raw data extraction, data mining, and statistical modeling.</li>
+           <li>Performed evaluation, testing, and algorithm development in MATLAB, and published my findings in a detailed report.</li>
 
 # Internship
 - company: Siemens
