@@ -1,17 +1,20 @@
 # Certifications
 # comment out the urls if you do not wish to display them
 
-#- organization: SQL - Datacamp
-#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20SQL.pdf
+- organization: Data Science Career Track - Springboard
+  url: https://www.credential.net/d6380eb4-f8ee-4a98-aa88-e626bdd4d11a
   
-#- organization: Joining Data in SQL - Datacamp
-#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Joining%20Data%20in%20SQL.pdf
+- organization: Data Analyst with Python - Datacamp
+  url: https://www.datacamp.com/statement-of-accomplishment/track/9f14a29bacf6bb96dd555b937f07b86efa6c019d?raw=1
   
-#- organization: Relational Databases - IBM
-#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/IBM%20Coursera%20RDBMS.pdf
+- organization: Data Analyst with SQL - Datacamp
+  url: https://www.datacamp.com/statement-of-accomplishment/track/9f14a29bacf6bb96dd555b937f07b86efa6c019d?raw=1
   
-#- organization: Importing Data in Python - Datacamp
-#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Importing%20Data%20in%20Python.pdf
+- organization: Data Scientist Professional - Datacamp
+  url: https://www.datacamp.com/statement-of-accomplishment/track/6f85209f81be144789c5f8f3c0e7e9cec021b459?raw=1
+  
+- organization: Data Scientist with Python - Datacamp
+  url: https://www.datacamp.com/statement-of-accomplishment/track/28b61b87e7af79f43c6c01c696e9642f42efb2d5?raw=1
   
 #- organization: Python Exploratory Data Analysis - Datacamp
 #  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/Datacamp%20Python%20Exploratory%20Data%20Analysis.pdf
@@ -25,5 +28,5 @@
 #- organization: Python for Data Science, AI & Development - IBM
 #  url: https://github.com/ttariqaziz/ttariqaziz.github.io/blob/main/images/IBM%20Python%20for%20DS%2C%20AI%20%26%20Development.pdf
 
-- organization: Various short certifications
-  url: https://github.com/ttariqaziz/ttariqaziz.github.io/tree/main/images
+#- organization: Various short certifications
+#  url: https://github.com/ttariqaziz/ttariqaziz.github.io/tree/main/images
