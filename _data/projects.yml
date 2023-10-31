@@ -13,10 +13,10 @@
   role: Developer
   duration: 2023
   url: "https://github.com/ttariqaziz/nyc_airbnb_capstone"
-  description: Design and Implementation of a Supervised Machine Learning Model in Python on a Real-World Kaggle Dataset, Featuring a Comprehensive Data Science Pipeline.
+  description: Design and Implementation of a Supervised Machine Learning Model in Python on a Real-World AirBnb Dataset, Featuring a Comprehensive Data Science Pipeline.
 
 # Springboard
-- project: H&M Fashion Recommendation System using Machine Learning
+- project: H&M Data Explorations: Uncovering Insights using Machine Learning
   role: Developer
   duration: 2023
   url: "https://github.com/ttariqaziz/h-m_recommendation_system_ml_project"
