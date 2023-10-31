@@ -1,6 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Omdena
+- project: Weather Crime Relationship in Houston, TX, an end-to-end machine learing project
+  role: Developer
+  duration: 2023
+  url: "https://github.com/ttariqaziz/weather_crime_relationship_houston_time_series_analysis_omdena"
+  description: An end-to-end machine learning project about understanding relationship between crime and weather in Houston, TX. A time series analysis of historial weather data patterns that influence criminal behavior followed by dashboard creation using Gradio app . 
+
+
 # Springboard
 - project: Text Classification and Sentiment Analysis of Covid-19 Twitter Data using NLP
   role: Developer
@@ -15,7 +23,7 @@
   url: "https://github.com/ttariqaziz/nyc_airbnb_capstone"
   description: Design and Implementation of a Supervised Machine Learning Model in Python on a Real-World Dataset from AirBnb, featuring a Comprehensive Data Science Pipeline. 
 
-# Springboard
+# DataCamp
 - project: H&M Data Explorations: Uncovering Insights using Machine Learning
   role: Developer
   duration: 2023
