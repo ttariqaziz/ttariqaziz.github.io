@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Omdena
-- project: Weather Crime Relationship in Houston, TX, an end-to-end machine learing project
+- project: Weather Crime Relationship in Houston, TX, an end-to-end machine learning project
   role: Developer
   duration: 2023
   url: "https://github.com/ttariqaziz/weather_crime_relationship_houston_time_series_analysis_omdena"
-  description: An end-to-end machine learning project about understanding relationship between crime and weather in Houston, TX. A time series analysis of historial weather data patterns that influence criminal behavior followed by dashboard creation using Gradio app . 
+  description: An end-to-end machine learning project about understanding the relationship between crime and weather in Houston, TX. A time series analysis of historical weather data patterns that influence criminal behavior followed by dashboard creation using the Gradio app. 
 
 
 # Springboard
@@ -24,7 +24,7 @@
   description: Design and Implementation of a Supervised Machine Learning Model in Python on a Real-World Dataset from AirBnb, featuring a comprehensive Data Science Pipeline. 
 
 # DataCamp
-- project: H and M Data Explorations: Uncovering Insights using Machine Learning
+- project: H and M Data Explorations - Uncovering Insights using Machine Learning
   role: Developer
   duration: 2023
   url: "https://github.com/ttariqaziz/h-m_recommendation_system_ml_project"
