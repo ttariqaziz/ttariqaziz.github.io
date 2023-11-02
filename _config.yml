@@ -6,7 +6,7 @@ sass:
   style: compressed
 resume_avatar: 'true'
 resume_name: M.Tariq Aziz
-resume_title: Data Scientist • Data Analytics • Python Developer • SQL • R • AWS • Tableau • Machine Learning • Natural Language Processing • AI • 📊📈
+resume_title: Data Scientist • Data Analytics • Python Developer • SQL • R • AWS • Tableau • Junior Machine Learning • Natural Language Processing • AI • 📊📈
 resume_contact_email: ta.aziz221@gmail.com
 # resume_contact_telephone: 555-7334
 resume_contact_address: 'Spring, TX'
@@ -15,7 +15,7 @@ resume_contact_address: 'Spring, TX'
 # lisasimpson@youremailaddress.com
 display_header_contact_info: 'true'
 resume_header_intro: >-
-  <p>I am a highly skilled Data Scientist with over six years of experience in the field. Currently, I am working at Omdena as a Data Science Intern. I have a strong passion for using data to solve real-world problems, and I am always eager to engage in stimulating discussions and collaborate with others. Exploring new places, spending quality time with my loved ones, and enjoying a cup of coffee with a good book are some of the things that bring me joy in my free time. I firmly believe in the philosophy of "never stop learning," and I strive to live by this motto every day. I am confident in my analytical skills and expertise and am actively seeking challenging opportunities to contribute to business success.</p>
+  <p>I am a highly skilled Data Scientist with over six years of experience in the field. Currently, I am working at Omdena as a Junior Machine Learning Engineer. I have a strong passion for using data to solve real-world problems, and I am always eager to engage in stimulating discussions and collaborate with others. Exploring new places, spending quality time with my loved ones, and enjoying a cup of coffee with a good book are some of the things that bring me joy in my free time. I firmly believe in the philosophy of "never stop learning," and I strive to live by this motto every day. I am confident in my analytical skills and expertise and am actively seeking challenging opportunities to contribute to business success.</p>
 resume_looking_for_work: 'yes'
 resume_section_projects: true
 resume_section_experience: true
