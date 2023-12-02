@@ -8,23 +8,23 @@
 
 # - degree: Master of Science, Engineering Physics
 #  uni: Chalmers University of Technology
-- degree: Certification, Data Science Career Track Bootcamp (machine learning, artificial intelligence)
-  uni: Springboard, TX
-  year: 2023 &mdash; 2023
+# - degree: Certification, Data Science Career Track Bootcamp (machine learning, artificial intelligence)
+ # uni: Springboard, TX
+ # year: 2023 &mdash; 2023
 
-- degree: Masters, Computer Science (data science)
+- degree: Masters, Computer Science (Data Science, Machine Learning, AI)
   uni: Sofia University, CA
-  year: 2017 &mdash; 2019
+ # year: 2017 &mdash; 2019
  # awards:
  #   - award: Summa Cumme Laude graduate
  # summary: If you had any meaningful roles at college, feel free to write about them here
 
 
-- degree: Masters, Engineering (computer science)
+- degree: Masters, Engineering (Computer Science, Physics)
   uni: Chalmers University of Technology, International
   
 
-- degree: Bachelor, Engineering (computer science)
+- degree: Bachelor, Engineering (Computer Science, Telecommunications)
   uni: FAST-National University, International
  # year: 2017 &mdash; 2019
  # awards:
