@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: Real Estate Price Predictor App using FLASK
+  role: Developer
+  duration: 2023
+  url: "https://github.com/ttariqaziz/real_estate_price_prediction_AI_app_using_Flask"
+  description: This web application leverages machine learning to predict housing prices based on key features such as property size, number of bedrooms, and number of bathrooms. Built with Flask, a lightweight Python web framework, the dashboard offers an intuitive and user-friendly interface for users to input property details and receive accurate price predictions.
+
 # Omdena
 - project: Weather Crime Relationship in Houston, TX, an end-to-end machine learning project
   role: Developer
