@@ -26,10 +26,10 @@ resume_section_links: true
 resume_section_associations: true
 resume_social_links:
   resume_github_url: 'https://github.com/ttariqaziz'
-  # resume_twitter_url: 'http://twitter.com/jglovier'
+  # resume_twitter_url: 'http://twitter.com/'
   resume_linkedin_url: 'https://www.linkedin.com/in/mtariqaziz'
-  resume_website_url: 'https://drive.google.com/file/d/18diLCHO5-QyNsUpgfPr5ZuEi_B7Mo9sC/view?usp=sharing'
-  # resume_medium_url: 'https://medium.com/@jglovier'
+  resume_website_url: 'https://drive.google.com/file/d/1PdhxmqHy_8nVkYesaQFg2MeQhRDDL4Tw/view?usp=sharing'
+  # resume_medium_url: 'https://medium.com/'
   # resume_pdf_url: 'www.cnn.com'
 resume_print_social_links: true
 resume_theme: default
