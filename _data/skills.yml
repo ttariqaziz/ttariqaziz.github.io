@@ -1,7 +1,7 @@
 # Skills
 # Programming
 - skill: Programming
-  description: Python (Scikit-learn, Pandas, NumPy, NLTK, PySpark, TensorFlow, Flask), SQL, Spark SQL, R, Java, MATLAB, HTML, CSS, Bash, Scala, Git, GitHub, VBA
+  description: Python (Scikit-learn, Pandas, NumPy, NLTK, PySpark, TensorFlow, Flask), SQL, Spark SQL, R, Java, MATLAB, HTML, CSS, Bash, Scala, Git, VBA, RPA (robot process automation)
 
 # Dashboard
 - skill: Data Visualization/Dashboarding
@@ -9,11 +9,11 @@
 
 # Database
 - skill: Database/Data warehouse
-  description: PostgreSQL, Oracle SQL, MySQL, Snowflake
+  description: PostgreSQL, Oracle SQL, MySQL, Snowflake, Azure Synapse Analytics
 
 # Cloud
 - skill: Cloud
-  description: AWS (S3, EC2, RDS), Azure
+  description: AWS (S3, EC2, RDS), Azure (Data Factory, Data Lake, Databricks, Synapse Analytics, Key Vault, Active Directory)
   
 # tools:
 # - skill: tools
