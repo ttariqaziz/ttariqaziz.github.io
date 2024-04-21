@@ -3,7 +3,7 @@
 # Data Kind Volunteer
 - company: Omdena &mdash; Houston, TX
   url: https://www.datakind.org/
-  position: Data Scientist Intern
+  position: Data Scientist
   duration: 2023 &mdash; Present
   summary: <li>Collaborated with a non-profit, boosting user engagement by 15%, and sales by 10%, while ensuring data quality and governance. </li><li>Meticulously analyzed 31M+ transactions and 10K images, effectively wrangled the data and curtailed errors by 20%.</li>
 
@@ -25,16 +25,16 @@
 
 # Engineer
 - company: Robert Half Technology, Fremont, CA
-  position: Technical Data Analyst
+  position: Jr Data Scientist
   duration: 2018 &mdash; 2019
   summary: <li>Executed level-1 data examination and warranty maintenance, specializing in the diagnostic assessment of a wide array of systems, spanning servers, blades, and PCs.</li><li>Coordinated, oversaw, managed, and documented faults using the ticket system, ensuring prompt resolution of issues and timely completion of projects.</li>
 
 # Data Science Researcher
 - company: Chalmers University of Technology
   url: https://www.chalmers.se/
-  position: Data Science Researcher
+  position: Data Scientist
   duration: 2015 &mdash; 2017
-  summary: <li>Conducted research on GNSS geodetic stations at Onsala Space Observatory for monitoring weather effects on signal propagation. This involved raw data extraction, data mining, and statistical modeling.</li>
+  summary: <li>Researcher on GNSS geodetic stations at Onsala Space Observatory for monitoring weather effects on signal propagation. This involved raw data extraction, data mining, and statistical modeling.</li>
            <li>Performed evaluation, testing, and algorithm development in MATLAB, published my findings in a detailed report and presented them in a seminar.</li>
 
 - company: ZTE Corporation
