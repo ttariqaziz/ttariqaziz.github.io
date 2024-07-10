@@ -25,8 +25,8 @@
   uni: Chalmers University of Technology, International
   
 
-- degree: Bachelor, Engineering (Computer Science, Telecommunications)
-  uni: FAST-National University, International
+# - degree: Bachelor, Engineering (Computer Science, Telecommunications)
+ # uni: FAST-National University, International
  # year: 2017 &mdash; 2019
  # awards:
  #   - award: Summa Cumme Laude graduate
